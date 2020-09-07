@@ -1,0 +1,31 @@
+header{
+	font-size: 35px;
+	font-family: roboto, courier;
+	padding: 5px;
+	background-color: black;
+	color: forestgreen;
+	text-align: center;
+}
+
+#warning1{
+	text-align: center;
+}
+
+.panel.panel-primary{
+	position: absolute;
+	width: 400px;
+	left: 15px;
+}
+
+.panel.panel-default{
+	width: 860px;
+	position: absolute;
+	top: 170px;
+	right: 60px;
+}
+
+
+
+body{
+	background-image: url('best-hd-wallpapers-33.jpg');
+}
